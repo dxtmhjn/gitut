@@ -1,7 +1,2 @@
 hello
-
-<<<<<<< HEAD
-Mahajan
-=======
 Dixit
->>>>>>> c403b5238711f5340396d483bc3b1982f800a51d
